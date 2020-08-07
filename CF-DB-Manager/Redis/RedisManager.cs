@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Cosmos;
 using StackExchange.Redis;
-namespace CF_DB_Manager
+namespace CF_DB_Manager.Redis
 {
     public class RedisManager : ConcurrentSingleton<RedisManager>
     {
