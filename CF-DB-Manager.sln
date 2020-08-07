@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CF-DB-Manager", "CF-DB-Manager\CF-DB-Manager.csproj", "{5D0E98C2-16EA-455D-BB7F-7EC8AEC9D443}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CFramework", "CFramework\CFramework.csproj", "{AD34B655-EDF0-4051-8784-C5A206BB8536}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D0E98C2-16EA-455D-BB7F-7EC8AEC9D443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D0E98C2-16EA-455D-BB7F-7EC8AEC9D443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D0E98C2-16EA-455D-BB7F-7EC8AEC9D443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D0E98C2-16EA-455D-BB7F-7EC8AEC9D443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD34B655-EDF0-4051-8784-C5A206BB8536}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD34B655-EDF0-4051-8784-C5A206BB8536}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD34B655-EDF0-4051-8784-C5A206BB8536}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD34B655-EDF0-4051-8784-C5A206BB8536}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98CE02CB-89A8-4712-96EC-A89311C521C6}
+	EndGlobalSection
+EndGlobal
